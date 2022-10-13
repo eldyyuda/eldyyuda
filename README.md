@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eldyyuda
 - 👀 I’m interested in Software Development, AI, and CyberSec
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevSecOps
 
 <!---
 eldyyuda/eldyyuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
