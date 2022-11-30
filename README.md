@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eldy Yuda Kurniawan</h1>
 <h3 align="center">A passionate in DevSecOps, Fullstack Development, And AI</h3>
 
-- 🔭 I’m currently working on **Meet Doctor**
+- 🔭 I’m currently working on **CEC**
 
 - 🌱 I’m currently learning **DevSecOps and Cyber Security**
 
